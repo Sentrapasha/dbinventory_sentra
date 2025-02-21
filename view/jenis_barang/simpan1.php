@@ -1,6 +1,6 @@
 <?php
 
-$is_jenis = $_POST['id_jenis'];
+$id_jenis = $_POST['id_jenis'];
 $nama_jenis = $_POST['nama_jenis'];
 
 include '../../config/koneksi.php';
